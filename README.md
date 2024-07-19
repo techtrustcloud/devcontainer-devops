@@ -106,7 +106,7 @@ Additional Information
 
 For more details about configuring development containers, refer to the following resources:
 
-	•	[Development Containers Specification](https://containers.dev/implementors/spec/)
-	•	[Base Debian Image README](https://github.com/devcontainers/images/tree/main/src/base-debian)
+	• https://containers.dev/implementors/spec/
+	• https://github.com/devcontainers/images/tree/main/src/base-debian
 
 This development environment is designed to streamline the development process and ensure consistency across different development setups. Feel free to customize the devcontainer.json file to fit your specific needs.
